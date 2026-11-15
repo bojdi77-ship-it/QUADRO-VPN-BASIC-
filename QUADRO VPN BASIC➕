@@ -1,5 +1,5 @@
-
-
+#profile-title:QUADRO VPN: Тариф BASIC➕
+#profile-update-interval: 48/72/96/120/144HOURSUPDATE
 
 vless://65b969ad-f9f4-4deb-a7b2-c393e549e75d@85.11.161.33:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=mx-2372c3.dobry.monster&pbk=H4PmdY0ne8oJz8aSYYMmbwWaPv60SOJGKvfAkndaWCc&sid=c777b184dac4bb88&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22length%22%3A%2210-20%22%2C%22packets%22%3A%22tlshello%22%2C%22interval%22%3A%2210-20%22%7D%7D%5D%7D#%F0%9F%87%AD%F0%9F%87%B0HonkGonk+BASIC%E2%9E%95
 
