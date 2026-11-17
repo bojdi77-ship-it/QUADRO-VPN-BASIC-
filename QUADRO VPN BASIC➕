@@ -49,6 +49,8 @@ hysteria2://09e4ccf4-c11b-40e2-931d-939f731dddd0@ne.greatecloud.com:443?sni=ne.g
 
 vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@201.10.91.216:25035?encryption=none&security=reality&sni=96f799r.ch5.h1clayd.click&fp=firefox&pbk=m7pPQqgE5q8qOjHhn9AjNA9sWhBFQ-gXzyGcZTNihUU&sid=eb63581de991f8c8&type=xhttp&mode=auto&host=ch5.h1cloud.net&path=%2Fastral-edge-h1#%F0%9F%87%A8%F0%9F%87%ADSwitzerland%20BASIC%E2%9E%95
 
+vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@ce5afbt.us14.h1clayd.click:443?flow=xtls-rprx-vision&type=raw&security=reality&fp=firefox&sni=ce5afbt.us14.h1clayd.click&pbk=h1RM4xbCSspYaSwNHFIeECHKJ0gdvE6ezCqlAuFiC04&sid=d475b402ccbe2ff9#%F0%9F%87%BA%F0%9F%87%B8USA+BASIC%E2%9E%95
+
 vless://d651c9ab-b844-4420-b3d0-20d201ef5f55@201.24.120.191:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=node-pl-2.nztpro.com&pbk=HyPCaHlGMjE2h7D4F6dtyFHeXDEAHIUg9fXJgADc5H0&sid=134a7678ec2a3285#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%9B%B0%EF%B8%8F%E2%86%93LTE+SERVERS%E2%86%93%F0%9F%9B%B0%EF%B8%8F
 
 vless://65b969ad-f9f4-4deb-a7b2-c393e549e75d@185.178.208.167:443?type=xhttp&security=tls&fp=firefox&sni=www.ddos-guard.net&path=%2Fshop%2Forders%2Fbatch&host=dmjie.com&mode=packet-up&extra=%7B%22mode%22%3A%22packet-up%22%7D&alpn=h2#%F0%9F%87%A9%F0%9F%87%AALTEv1.0
