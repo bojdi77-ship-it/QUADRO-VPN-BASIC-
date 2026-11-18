@@ -58,3 +58,5 @@ vless://65b969ad-f9f4-4deb-a7b2-c393e549e75d@185.178.208.167:443?type=xhttp&secu
 vless://37af0181-5598-4aad-a040-d926bcb65757@earlytrain.net:8443?type=xhttp&security=tls&fp=firefox&sni=earlytrain.net&path=%2Fapi%2Fv1%2Fupload&host=earlytrain.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&alpn=h2,http/1.1#%F0%9F%87%A7%F0%9F%87%ACLTEv1.1
 
 vless://09e4ccf4-c11b-40e2-931d-939f731dddd0@cloud.kot-game.club:7443?flow=xtls-rprx-vision&type=tcp&security=tls&fp=hellochrome_120&sni=clne-edge.cloud.kot-game.club&alpn=h2,http/1.1#%F0%9F%87%AA%F0%9F%87%AALTEv1.2
+
+vless://75a8cc15-fa52-4067-949f-42a89859b54f@194.55.239.195:443?encryption=none&security=reality&sni=stats.24catvpn.ru&fp=firefox&pbk=oJpmeGMTN9jhcq4ORR_gtU5_8WyfMsCCWE3Wq3x9JQ4&sid=9cb9497322&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AALTEv1.3%20BASIC%E2%9E%95
