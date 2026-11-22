@@ -31,6 +31,8 @@ vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@83.141.92.190:443?flow=xtls-rprx-vi
 
 vless://c9722094-0f55-4678-96db-3b88953a46da@83.141.68.185:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=latino.plus-hit.ru&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&sid=7c8e3d4a9b1f26d3#%F0%9F%87%B1%F0%9F%87%BBLatvija+BASIC%E2%9E%95
 
+vless://a077dc9a-712f-48ea-b75c-d94af64011ec@188.225.46.6:443?flow=xtls-rprx-vision-udp443&encryption=none&security=tls&sni=spb.b2ai.top&alpn=h2%2C%20http%2F1.1&fp=firefox&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%BBLatvija%20Riga%C2%B2%20BASIC%E2%9E%95
+
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU0EgQkFTSUPinpUiLCJhZGQiOiJndWFud2FuZy5hd3Nuby5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJndWFud2FuZy5hd3Nuby5jb20iLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4IiwidGxzIjoidGxzIn0=
 
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:54528?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=ios&sni=www.apple.com&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7#%F0%9F%87%A6%F0%9F%87%BAAustralia+BASIC%E2%9E%95
